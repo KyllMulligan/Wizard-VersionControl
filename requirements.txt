@@ -1,0 +1,6 @@
+# Python Dependencies for HexShard Online PoC
+
+websockets
+fastapi
+pydantic
+numpy # For vector math / physics simulation (placeholder)
